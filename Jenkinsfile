@@ -1,4 +1,4 @@
-@Library('shared_pipeline@master')
+@Library('shared_pipeline@master')_
 
 myPipeline (
     email: 'paul@kuruma.co.uk',
