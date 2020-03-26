@@ -1,4 +1,4 @@
-@Library(shared_pipeline@master)
+@Library('shared_pipeline@master')
 
 myPipeline (
     branch: 'master',
